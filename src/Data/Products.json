@@ -1,0 +1,13 @@
+{
+    "defects": [
+        {"category": "UI","description": "Submit button coming to extreme left",
+        "priority": "Medium","status": "open","changestatus": "Close Defect"
+        },
+        {"category": "Functional","description": "While Submitting a form data a popup should appear",
+        "priority": "High","status": "open","changestatus": "Close Defect"
+        },
+        {"category": "CR","description": "Add remove user functionality",
+        "priority": "Low","status": "closed","changestatus": "No Action Pending"
+        }
+    ]
+}
